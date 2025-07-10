@@ -36,17 +36,17 @@
     * **Cookie Parser:** Parse Cookie header and populate `req.cookies`.
 * **Deployment:**
     * **Cloudinary:** For efficient image hosting and delivery.
-    * **Render:** (If you deployed it there, mention it!)
+      
 
 ---
 
 ## 📦 How to Run Locally
 
-Get this Airbnb Clone up and running on your machine in a few simple steps!
+Get this Airbnb Project up and running on your machine in a few simple steps!
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your-repo-link-here>
+    git clone <https://github.com/ayush1481-ui/2.Airbnb.git>
     cd airbnb-clone # Or whatever your project folder is named
     ```
 2.  **Install Dependencies:**
