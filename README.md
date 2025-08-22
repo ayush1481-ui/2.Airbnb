@@ -25,7 +25,6 @@
     * **React.js:** Modern JavaScript library for building user interfaces.
     * **React Router DOM:** Declarative routing for React.
     * **Tailwind CSS:** Utility-first CSS framework for rapid UI development.
-    * **Other React Libraries:** (Add specific names if they are significant, e.g., `react-datepicker`, `axios`, etc.)
 * **Backend:**
     * **Node.js:** JavaScript runtime for server-side logic.
     * **Express.js:** Fast, unopinionated, minimalist web framework for Node.js.
