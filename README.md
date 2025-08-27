@@ -46,7 +46,7 @@ Get this Airbnb Project up and running on your machine in a few simple steps!
 1.  **Clone the Repository:**
     ```bash
     git clone <https://github.com/ayush1481-ui/2.Airbnb.git>
-    cd airbnb-clone # Or whatever your project folder is named
+    cd airbnb-clone 
     ```
 2.  **Install Dependencies:**
     ```bash
@@ -61,13 +61,13 @@ Get this Airbnb Project up and running on your machine in a few simple steps!
 3.  **Set Up Environment Variables:**
     Create a **`.env`** file in your **`backend`** directory with the following:
     ```
-    MONGO_URL="YOUR_MONGODB_CONNECTION_STRING"
-    JWT_SECRET="YOUR_JWT_SECRET_KEY"
-    CLOUDINARY_CLOUD_NAME="YOUR_CLOUD_NAME"
-    CLOUDINARY_API_KEY="YOUR_API_KEY"
-    CLOUDINARY_API_SECRET="YOUR_API_SECRET"
-    ```
-    *Replace placeholders with your actual credentials.*
+ PORT = 8000
+MONGODB_URL = "mongodb+srv://gandhiayush110:ayush123@cluster0.8rncwd1.mongodb.net/airclone"
+JWT_SECRET = "WAED234626E63SD5W7W"
+NODE_ENVIRONMENT = "development"
+CLOUDINARY_CLOUD_NAME = "denggddjx"
+CLOUDINARY_API_KEY = "836576634111992"
+CLOUDINARY_API_SECRET = "veknS0D1D7ueVwVZVKIb_Ha4yII"
 
 4.  **Start the Servers:**
     ```bash
@@ -81,7 +81,7 @@ Get this Airbnb Project up and running on your machine in a few simple steps!
     ```
 
 5.  **Access the Application:**
-    Open your browser and navigate to `http://localhost:3000` (or whatever port your React app runs on).
+    Open your browser and navigate to `http://localhost:3000` 
 
 ---
 
